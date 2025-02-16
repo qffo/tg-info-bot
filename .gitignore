@@ -1,0 +1,17 @@
+.venv/
+*cache*
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+dist/
+*.egg-info
+.coverage
+coverage.xml
+.pytest_cache/
+files_for_test/
+exampless/
+.env
+*.log
+*.sqlite3
+db.sqlite3
